@@ -1,0 +1,14 @@
+{
+  "name": "rimaykuna",
+  "version": "1.0.0",
+  "description": "A vscode extension to keep track of daily task by project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alkhioz",
+  "license": "ISC",
+  "dependencies": {
+    "hierarchical-node-structure": "^1.0.4"
+  }
+}
